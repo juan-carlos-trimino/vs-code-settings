@@ -59,7 +59,7 @@ $ git push origin main
   // commandCenter: `(Experimental)` Shows debug toolbar in the command center.
   // hidden: Do not show debug toolbar.
   "debug.toolBarLocation": "commandCenter",
-  //
+  //When enabled, the diff editor ignores changes in leading or trailing whitespace.
   "diffEditor.ignoreTrimWhitespace": false,
   //
   "editor.acceptSuggestionOnEnter": "off", //Press Tab to accept suggestion.
