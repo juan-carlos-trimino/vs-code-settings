@@ -1,0 +1,10 @@
+# Ignore everything.
+**
+
+# But include these...
+!.gitignore
+!LICENSE
+!README.md
+!.vscode/
+.vscode/*
+!.vscode/settings.json
