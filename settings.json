@@ -20,6 +20,7 @@ enables you to review and modify setting values that are stored in a settings.js
 ***/
 {
   "breadcrumbs.enabled": true,
+  //
   "debug.toolBarLocation": "commandCenter",
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.acceptSuggestionOnEnter": "off", //Press Tab to accept suggestion.
