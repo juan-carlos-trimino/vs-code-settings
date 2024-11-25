@@ -53,7 +53,15 @@ $ git push origin main
   // off: Do not show the file path in the breadcrumbs view.
   // last: Only shows the last element of the file path in the breadcrumbs view.
   "breadcrumbs.filePath": "on",
+<<<<<<< HEAD
   //
+=======
+  //Controls the location of the debug toolbar.
+  // floating: Shows debug toolbar in all views.
+  // docked: Shows debug toolbar only in debug views.
+  // commandCenter: `(Experimental)` Shows debug toolbar in the command center.
+  // hidden: Do not show debug toolbar.
+>>>>>>> 5e163962ccdf9e788bbd6dd35980d30cd43c8390
   "debug.toolBarLocation": "commandCenter",
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.acceptSuggestionOnEnter": "off", //Press Tab to accept suggestion.
