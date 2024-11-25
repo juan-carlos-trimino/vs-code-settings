@@ -19,11 +19,7 @@ The Settings editor ([File > Preferences > Settings] or [Ctrl + ,]) is the user 
 enables you to review and modify setting values that are stored in a settings.json file.
 ***/
 {
-<<<<<<< HEAD
-  //
-=======
   //Enable/disable navigation breadcrumbs.
->>>>>>> c0b2945d0479e4f1e4b0706c8623d1e8f4fa8bb8
   "breadcrumbs.enabled": true,
   //
   "debug.toolBarLocation": "commandCenter",
