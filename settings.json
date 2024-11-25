@@ -48,6 +48,11 @@ $ git push origin main
 {
   //Enable/disable navigation breadcrumbs.
   "breadcrumbs.enabled": true,
+  //Controls whether and how file paths are shown in the breadcrumbs view.
+  // on: Shows the file path in the breadcrumbs view.
+  // off: Do not show the file path in the breadcrumbs view.
+  // last: Only shows the last element of the file path in the breadcrumbs view.
+  "breadcrumbs.filePath": "on",
   //
   "debug.toolBarLocation": "commandCenter",
   "diffEditor.ignoreTrimWhitespace": false,
