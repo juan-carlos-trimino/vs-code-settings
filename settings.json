@@ -19,6 +19,7 @@ The Settings editor ([File > Preferences > Settings] or [Ctrl + ,]) is the user 
 enables you to review and modify setting values that are stored in a settings.json file.
 ***/
 {
+  //
   "breadcrumbs.enabled": true,
   //
   "debug.toolBarLocation": "commandCenter",
