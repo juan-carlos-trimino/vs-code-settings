@@ -61,6 +61,7 @@ $ git push origin main
   "debug.toolBarLocation": "commandCenter",
   //
   "diffEditor.ignoreTrimWhitespace": false,
+  //
   "editor.acceptSuggestionOnEnter": "off", //Press Tab to accept suggestion.
   "editor.bracketPairColorization.enabled": true,
   "editor.cursorBlinking": "phase",
