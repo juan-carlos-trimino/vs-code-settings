@@ -5,6 +5,7 @@
 !.gitignore
 !LICENSE
 !README.md
-!.vscode/
-.vscode/*
-!.vscode/settings.json
+!settings.json
+# !.vscode/
+# .vscode/*
+# !.vscode/settings.json
