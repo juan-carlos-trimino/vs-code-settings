@@ -19,6 +19,9 @@ The Settings editor ([File > Preferences > Settings] or [Ctrl + ,]) is the user 
 enables you to review and modify setting values that are stored in a settings.json file.
 
 *************************************subtree*******************************************************
+To use these settings on your project, you may add this repo as a dependency of your repo by using
+the git subtree tool. This tool allows you to insert this repo as a sub-directory of yours. This is
+one of several ways Git projects can manage project dependencies.
 
 To see the subtree commands, use:
 $ git subtree -h
@@ -40,9 +43,10 @@ $ git rm -r .vscode/
 (The above command removes the subtree directory from your working directory and stages the removal
 for commit. The -r flag tells git to recursively delete the directory.)
 $ git commit -m "remove subtree"
-xxxx
 (The above command creates a new commit that records the removal of the subtree.)
-The subtree is removed from your working directory and future commits, but the history of the subtree remains in your repository. You can still access it using tools like git log or git checkout.
+The subtree is removed from your working directory and future commits, but the history of the
+subtree remains in your repository. You can still access it using tools like git log or
+git checkout.
 $ git push origin main
 ***/
 {
