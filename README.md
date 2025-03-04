@@ -14,7 +14,7 @@ VS Code stores setting values in a ***settings.json*** file:<br>
 The Settings editor ([***File > Preferences > Settings***] or [***Ctrl + ,***]) is the user interface that enables you to review and modify setting values that are stored in a ***settings.json*** file.
 
 ## Using the settings
-To use these settings on your project, you may add this repo as a dependency of your repo by using the git subtree tool. This tool allows you to insert this repo as a sub-directory of yours. This is one of several ways Git projects can manage project dependencies.
+To use these settings on your project, you may add this repo as a dependency of your repo by using the ***git subtree tool***. This tool allows you to insert this repo as a sub-directory of yours. This is one of several ways Git projects can manage project dependencies.
 
 To see the subtree commands, use:
 ```
