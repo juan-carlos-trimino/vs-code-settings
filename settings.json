@@ -1,22 +1,4 @@
 /***
-VS Code provides different scopes for settings:
-(a) User settings - These settings are applied globally to any instance of VS Code you open.
-(b) Workspace settings - These settings are specific to a project and override User settings. VS
-    Code stores workspace settings at the root of the project in a .vscode folder.
-
-VS Code stores setting values in a settings.json file:
-(a) User settings.json location - Depending on your platform, the user settings file is located
-    here:
-    (a) Windows - %AppData%\Code\User\settings.json
-  	(b) macOS - $HOME/Library/Application\ Support/Code/User/settings.json
-  	(c) Linux - $HOME/.config/Code/User/settings.json
-(b) Workspace settings.json location - The workspace settings file is located under the .vscode
-    folder in your root folder. When you add a Workspace Settings settings.json file to your
-    project or source control, the settings for the project will be shared by all users of that
-    project.
-
-The Settings editor ([File > Preferences > Settings] or [Ctrl + ,]) is the user interface that
-enables you to review and modify setting values that are stored in a settings.json file.
 
 *************************************subtree*******************************************************
 To use these settings on your project, you may add this repo as a dependency of your repo by using
