@@ -139,7 +139,11 @@
   "files.autoSave": "afterDelay",
   //Controls the delay in milliseconds after which an editor with unsaved changes is saved
   //automatically. Only applies when `files.autoSave` is set to `afterDelay`.
+<<<<<<< HEAD
   "files.autoSaveDelay": 5000, //5 seconds.
+=======
+  "files.autoSaveDelay": 3000, //5 seconds.
+>>>>>>> 072ef3469533b50db326c33de71984a45ea1f724
   //The default language identifier that is assigned to new files. If configured to
   //`${activeEditorLanguage}`, will use the language identifier of the currently active text
   //editor, if any.
