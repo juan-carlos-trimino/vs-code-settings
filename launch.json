@@ -13,7 +13,7 @@
     "program": "./fin-finance/src/main.go",
     // "program": "src/finances/",
     "env": {
-      "HTTP": "true",
+      "HTTP": "false",
       "HTTPS": "true",
       "LE_CERT": "false",
       "K8S": "false",
