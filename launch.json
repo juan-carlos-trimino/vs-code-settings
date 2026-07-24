@@ -17,7 +17,8 @@
       "HTTPS": "true",
       "LE_CERT": "false",
       "K8S": "false",
-      "PREVENT_PROBES_OUTPUT": "true"
+      "PREVENT_PROBES_OUTPUT": "true",
+      "ALWAYS_DB_ADMIN": "false"
       // "PORT": "8081",
       // "SHUTDOWN_TIMEOUT": "10"
     },
