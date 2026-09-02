@@ -9,7 +9,7 @@
     "type": "go",
     "request": "launch",
     "mode": "debug",
-    // "mode": "test",
+    //"mode": "test",
     "program": "./fin-finance/src/main.go",
     // "program": "src/finances/",
     "env": {
