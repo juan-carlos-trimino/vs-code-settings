@@ -325,6 +325,8 @@
   //Configures settings to be overridden for the go language.
   "[go]": {
     "editor.defaultFormatter": "golang.go",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
     /***
     Gopls forces tab indentations on import sections when saving files. See
     https://github.com/golang/vscode-go/issues/3044
